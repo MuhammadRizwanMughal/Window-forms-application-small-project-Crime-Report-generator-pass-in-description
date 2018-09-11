@@ -1,0 +1,13 @@
+C:\Users\rizu3\source\repos\crimereport\crimereport\bin\Debug\crimereport.exe.config
+C:\Users\rizu3\source\repos\crimereport\crimereport\bin\Debug\crimereport.exe
+C:\Users\rizu3\source\repos\crimereport\crimereport\bin\Debug\crimereport.pdb
+C:\Users\rizu3\source\repos\crimereport\crimereport\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\rizu3\source\repos\crimereport\crimereport\obj\Debug\crimereport.Properties.Resources.resources
+C:\Users\rizu3\source\repos\crimereport\crimereport\obj\Debug\crimereport.csproj.GenerateResource.cache
+C:\Users\rizu3\source\repos\crimereport\crimereport\obj\Debug\crimereport.csproj.CoreCompileInputs.cache
+C:\Users\rizu3\source\repos\crimereport\crimereport\obj\Debug\crimereport.csproj.CopyComplete
+C:\Users\rizu3\source\repos\crimereport\crimereport\obj\Debug\crimereport.exe
+C:\Users\rizu3\source\repos\crimereport\crimereport\obj\Debug\crimereport.pdb
+C:\Users\rizu3\source\repos\crimereport\crimereport\obj\Debug\crimereport.mainlogin.resources
+C:\Users\rizu3\source\repos\crimereport\crimereport\obj\Debug\crimereport.front.resources
+C:\Users\rizu3\source\repos\crimereport\crimereport\obj\Debug\crimereport.csprojAssemblyReference.cache
